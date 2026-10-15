@@ -1,24 +1,40 @@
-# Hi, I'm JM Custodio
+# Hi, I'm John Mark Custodio
 
-### Site Reliability Engineer · Web Developer
+### Site Reliability Engineer
 
-I work on cloud infrastructure, deployment pipelines, and system reliability. I also build practical web applications for businesses and communities, bringing an operations mindset to how they're built and maintained.
+I build and operate cloud systems for fintech and enterprise teams, with hands-on experience in AWS, Kubernetes, automation, and incident response.
 
-[Portfolio](https://jmdevelops.com) · [LinkedIn](https://linkedin.com/in/johnmarkcustodio)
+I'm growing toward Solutions Architecture, grounded in the realities of production. I also build web applications for teams, businesses, and communities.
 
-## What I work on
+[Portfolio](https://jmdevelops.com) · [LinkedIn](https://linkedin.com/in/johnmarkcustodio) · [Knowledge Base](https://learn.jmdevelops.com)
 
-- **Cloud & infrastructure:** AWS, Google Cloud, Docker, Terraform
-- **Delivery & automation:** CI/CD, GitHub Actions
-- **Web development:** React, Next.js, TypeScript, Node.js
-- **Data & backend:** Firebase, Firestore, PostgreSQL, MySQL
+## Experience
 
-## Selected projects
+- **Site Reliability Engineer · Maya Bank** — March 2025–present. AWS infrastructure, Terraform and GitLab CI automation, observability, and incident response in a regulated fintech environment.
+- **DevOps Engineer · Amdocs** — May 2022–March 2025. AWS infrastructure, container platforms, infrastructure automation, and CI/CD workflows.
+
+## What I work with
+
+- **Cloud infrastructure:** AWS, EKS, EC2, ECS, Lambda, Google Cloud
+- **Automation & delivery:** Terraform, GitLab CI, ArgoCD, CodePipeline, CodeBuild
+- **Containers & service mesh:** Kubernetes, Docker, Helm, Istio, Envoy
+- **Observability & response:** Dynatrace, Splunk, CloudWatch, incident response, root cause analysis
+- **Networking & security:** VPC, load balancing, API Gateway, IAM, WAF
+- **Data & development:** PostgreSQL, DynamoDB, Redis, Firestore, Python, TypeScript, Shell
+
+## Products & projects
+
+**[ChordKit](https://chordkit.app)**  
+Founder and developer of a collaborative platform for worship teams to organize songs, transpose chord charts, and plan setlists. I own product design, full-stack development, and releases using React, TypeScript, Firebase, and Cloudflare.
 
 - **[PLC Cavite](https://www.plc-cavite.org/)** — A learning center website with enrollment and attendance management.
-- **[ChordBase](https://uccc-chordbase-app.web.app/)** — Song library, chord sheets, and setlist planning for worship teams.
-- **[The Storehouse](https://thestorehouseapp.web.app/)** — An inventory application for managing organizational stock and supplies.
+- **[Membership Portal](https://uccc-pulo-membership-system.web.app/)** — Member registration and community profile management.
+- **[The Storehouse](https://thestorehouseapp.web.app/)** — An application for managing organizational inventory and resources.
+
+## Currently learning
+
+Developing my foundation in solutions architecture: requirements, system design, networking, data, messaging, recovery, security, and cost tradeoffs. I share my learning in my [Knowledge Base](https://learn.jmdevelops.com).
 
 ## Let's connect
 
-Explore my [portfolio](https://jmdevelops.com) or connect with me on [LinkedIn](https://linkedin.com/in/johnmarkcustodio).
+For SRE opportunities, engineering conversations, or website projects, connect with me on [LinkedIn](https://linkedin.com/in/johnmarkcustodio) or visit my [portfolio](https://jmdevelops.com).
